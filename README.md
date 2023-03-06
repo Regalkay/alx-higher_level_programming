@@ -1,1 +1,1 @@
-This is my project on python Hello World!
+This is my repository on python Hello World project.
